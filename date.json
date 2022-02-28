@@ -1,0 +1,26 @@
+{
+    "examens": [
+        {
+            "materie": "MS",
+            "data": "21-2",
+            "ora": "12:00",
+            "sala": "EB102"
+        },
+        {
+            "materie": "ALG",
+            "data": "7-5",
+            "ora": "8:00",
+            "sala": "EG202"
+        }
+    ],
+    "teste": [
+        {
+            "materie": "TCE",
+            "data": "5-3"
+        },
+        {
+            "materie": "MME",
+            "data": "12-7"
+        }
+    ]
+}

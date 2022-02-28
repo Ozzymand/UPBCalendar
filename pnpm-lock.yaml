@@ -1,0 +1,24 @@
+lockfileVersion: 5.3
+
+specifiers:
+  infinite-scroll: ^4.0.1
+
+dependencies:
+  infinite-scroll: 4.0.1
+
+packages:
+
+  /ev-emitter/2.1.2:
+    resolution: {integrity: sha512-jQ5Ql18hdCQ4qS+RCrbLfz1n+Pags27q5TwMKvZyhp5hh2UULUYZUy1keqj6k6SYsdqIYjnmz7xyyEY0V67B8Q==}
+    dev: false
+
+  /fizzy-ui-utils/3.0.0:
+    resolution: {integrity: sha512-uJj38QFQiJ/KCio5tiZhwAjIbTXSIgzBCKdKVbaYfLS053F6z23Nb0o1ZoO9gnxOQWN7BCc35jsvrCtAq3gY9g==}
+    dev: false
+
+  /infinite-scroll/4.0.1:
+    resolution: {integrity: sha512-14Utu6d8g6mO5PmwUxfAUK5uaKdClIkrJqLmBYXj/AMBRy5ApsCWkkY84HvsSq4MM1A062gtf58S9OiD5WBfRA==}
+    dependencies:
+      ev-emitter: 2.1.2
+      fizzy-ui-utils: 3.0.0
+    dev: false
