@@ -12,7 +12,7 @@
             "data": "7-5",
             "ora": "8:00",
             "sala": "EG202",
-            "color": "#4b97d152"
+            "color": "#f7000052"
         }
     ],
     "teste": [
@@ -25,6 +25,15 @@
             "materie": "MME",
             "data": "12-7",
             "color": "#f9dc5852"
+        }
+    ],
+    "colors": [
+        {
+            "comment": "Unused values in the initial json fetch, here only for quick search up",
+            "blue": "#4b97d152",
+            "red": "#f7000052",
+            "yellow": "#f9dc5852",
+            "green": "#5a761d52"
         }
     ]
 }

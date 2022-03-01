@@ -25,7 +25,7 @@ fetch(url)
         var data = inputData.teste[i].data.split('-');
         var materie = inputData.teste[i].materie;
         var color = inputData.teste[i].color;
-        
+
         // search for the date in calendar
         var dateIn = document.getElementById(`${data[0]-1}-${data[1]-1}`);
         dateIn.style = `background-color: ${color}`;
