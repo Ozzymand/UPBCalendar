@@ -4,23 +4,27 @@
             "materie": "MS",
             "data": "21-2",
             "ora": "12:00",
-            "sala": "EB102"
+            "sala": "EB102",
+            "color": "#f7000052"
         },
         {
             "materie": "ALG",
             "data": "7-5",
             "ora": "8:00",
-            "sala": "EG202"
+            "sala": "EG202",
+            "color": "#4b97d152"
         }
     ],
     "teste": [
         {
             "materie": "TCE",
-            "data": "5-3"
+            "data": "5-3",
+            "color": "#f9dc5852"
         },
         {
             "materie": "MME",
-            "data": "12-7"
+            "data": "12-7",
+            "color": "#f9dc5852"
         }
     ]
 }
