@@ -17,13 +17,58 @@
     ],
     "teste": [
         {
-            "materie": "TCE",
-            "data": "5-3",
+            "materie": "S.C.El",
+            "data": "15-3",
             "color": "#f9dc5852"
         },
         {
-            "materie": "MME",
-            "data": "12-7",
+            "materie": "S.C.El",
+            "data": "22-3",
+            "color": "#f9dc5852"
+        },
+        {
+            "materie": "S.C.El",
+            "data": "29-3",
+            "color": "#f9dc5852"
+        },
+        {
+            "materie": "S.C.El",
+            "data": "5-4",
+            "color": "#f9dc5852"
+        },
+        {
+            "materie": "S.C.El",
+            "data": "12-4",
+            "color": "#f9dc5852"
+        },
+        {
+            "materie": "S.C.El",
+            "data": "19-4",
+            "color": "#f9dc5852"
+        },
+        {
+            "materie": "S.C.El",
+            "data": "26-4",
+            "color": "#f9dc5852"
+        },
+        {
+            "materie": "S.C.El",
+            "data": "10-5",
+            "color": "#f9dc5852"
+        },
+        {
+            "materie": "S.C.El",
+            "data": "17-5",
+            "color": "#f9dc5852"
+        },
+        {
+            "materie": "S.C.El",
+            "data": "24-5",
+            "color": "#f9dc5852"
+        },
+        {
+            "materie": "S.C.El",
+            "data": "3-6",
             "color": "#f9dc5852"
         }
     ],

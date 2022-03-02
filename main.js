@@ -4,7 +4,7 @@ let year = date.getYear();
 let month = date.getMonth();
 let cont = document.getElementById('container');
 
-let url = 'https://raw.githubusercontent.com/Ozzymand/UPBCalendar/main/date.json';
+const url = 'https://raw.githubusercontent.com/Ozzymand/UPBCalendar/main/date.json';
 
 fetch(url)
     .then(response => response.json())
